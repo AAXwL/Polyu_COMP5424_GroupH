@@ -15,12 +15,12 @@ Bunny Eight-ball
 Bunny Eight-ball is a virtual reality billiards game based on Unity. The main goal of the game is to provide players with an immersive VR experience that will make them feel like they are in a billiard hall and use virtual cues to accurately hit billiard balls. Players can familiarize themselves with the rules of billiards and grow in billiard skills through this game.
 
 ##Game Features:
-*Immersive VR Experience
-*Motion Control
-*Precision and Skill
-*Real-time Feedback
-*Rules
-*Kick-Off
-*Taking Turns
-*Fouls
+* Immersive VR Experience
+* Motion Control
+* Precision and Skill
+* Real-time Feedback
+* Rules
+* Kick-Off
+* Taking Turns
+* Fouls
 * Game Over
