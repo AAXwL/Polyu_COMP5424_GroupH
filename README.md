@@ -1,12 +1,13 @@
 # Polyu_COMP5424_GroupH
 Bunny Eight-ball
 
-Zhang, Minglun (23042784G) Leader
-Hua, Zean (23066185G)
-Ma, Jingran (23060247G)
-Zhu, Jun (23071777G)
-Xu, Weilong (23049134G)
-Liu, Yuchen (23057855G)
+## Group Member
+* Zhang, Minglun (23042784G) Leader
+* Hua, Zean (23066185G)
+* Ma, Jingran (23060247G)
+* Zhu, Jun (23071777G)
+* Xu, Weilong (23049134G)
+* Liu, Yuchen (23057855G)
 
 ## Game Name: 
 Bunny Eight-ball
