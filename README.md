@@ -1,5 +1,4 @@
 # Polyu_COMP5424_GroupH
-Bunny Eight-ball
 
 ## Group Member
 * Zhang, Minglun (23042784G) Leader
